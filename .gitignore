@@ -29,28 +29,9 @@ env/
 *.db
 *.lock
 
-# Data dump or temp files
-*.csv
-*.tsv
-*.xlsx
-*.xls
-*.zip
-*.rar
-*.tar.gz
-*.h5
-*.pkl
-*.joblib
-*.parquet
-*.feather
-*.json
-*.pdf
-
 # OS junk
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 
 requirements.txt~
-
-secrets.*
-config.*
