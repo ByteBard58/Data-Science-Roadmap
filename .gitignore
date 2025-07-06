@@ -1,0 +1,56 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Environment files
+.env
+*.env
+
+# Virtual environments
+venv/
+env/
+.venv/
+.envrc
+
+# Jupyter runtime logs and security
+*.log
+*.pid
+*.sqlite3
+*.db
+*.lock
+
+# Data dump or temp files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.zip
+*.rar
+*.tar.gz
+*.h5
+*.pkl
+*.joblib
+*.parquet
+*.feather
+*.json
+*.pdf
+
+# OS junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+requirements.txt~
+
+secrets.*
+config.*
