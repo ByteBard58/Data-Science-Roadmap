@@ -4,6 +4,6 @@ This is the initial phase of my nearly two-year-long data science roadmap. Durin
 
 Due to obvious reasons, I can’t share my mathematical and theoretical learnings here. However, I’m happy to share my code and Jupyter notebooks that I created while learning various modules. You can find them in the designated folders.
 
-**⚠️ NOTE:** Instead of putting separate *readme.md* files for each folder, I have put information about my learning of each libraries at the begining of every **"main"** jupyter notebooks. The notebooks which I created while learning the libraries, are named **main.ipynb**. This will apply to any further cases too.
+**⚠️ NOTE:** Instead of putting separate *readme.md* files for each folder, I have put information about my learning of each library at the beginning of every **"main"** Jupyter notebook. The notebooks which I created while learning the libraries, are named **main.ipynb**. This will apply to any further cases too.
 
 Wish me luck for the next phases !!
