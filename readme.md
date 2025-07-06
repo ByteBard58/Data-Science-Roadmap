@@ -22,13 +22,13 @@ This repo follows a **phase-based roadmap** designed based on industry guidance,
 
 Here is a short glimpse of the roadmap:
 
-### ✅ Phase 1: Foundation (✔ Completed Early – Target was July 16)
+### ✅ Phase 1: Foundation (✔ Completed before the deadline)
 - Core Python, Git, CLI
 - pandas for data manipulation
 - matplotlib/seaborn for data viz
 - Stats/probability essentials
 - Mini-projects and practice notebooks
-- All work now organized and ready to go public
+- All work is now organized and ready to go public
 
 ### ⏳ Phase 2: Core Data Science Skills (Currently Starting)
 - Supervised ML (linear/logistic regression, KNN, trees, etc.)
